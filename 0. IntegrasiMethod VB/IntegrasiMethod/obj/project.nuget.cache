@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWSK56euyw1IfM7ue9JoGWh8uzixBgocebAG8M+/FNXjj/36ZnTLVmZKBWtQgStfXpggL/qwAye420LEWVSP2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nuke Nidya\\source\\repos\\IntegrasiMethod\\IntegrasiMethod\\IntegrasiMethod.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nuke Nidya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

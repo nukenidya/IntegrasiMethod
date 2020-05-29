@@ -1,0 +1,13 @@
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\obj\Debug\netcoreapp3.1\IntegrasiMethod.vbprojAssemblyReference.cache
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\obj\Debug\netcoreapp3.1\IntegrasiMethod.AssemblyInfoInputs.cache
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\obj\Debug\netcoreapp3.1\IntegrasiMethod.AssemblyInfo.vb
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\obj\Debug\netcoreapp3.1\IntegrasiMethod.vbproj.CoreCompileInputs.cache
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\bin\Debug\netcoreapp3.1\IntegrasiMethod.exe
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\bin\Debug\netcoreapp3.1\IntegrasiMethod.deps.json
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\bin\Debug\netcoreapp3.1\IntegrasiMethod.runtimeconfig.json
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\bin\Debug\netcoreapp3.1\IntegrasiMethod.runtimeconfig.dev.json
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\bin\Debug\netcoreapp3.1\IntegrasiMethod.dll
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\bin\Debug\netcoreapp3.1\IntegrasiMethod.pdb
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\obj\Debug\netcoreapp3.1\IntegrasiMethod.dll
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\obj\Debug\netcoreapp3.1\IntegrasiMethod.pdb
+C:\Users\Nuke Nidya\source\repos\IntegrasiMethod\IntegrasiMethod\obj\Debug\netcoreapp3.1\IntegrasiMethod.genruntimeconfig.cache

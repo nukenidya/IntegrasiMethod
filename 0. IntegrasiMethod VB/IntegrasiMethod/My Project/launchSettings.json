@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "IntegrasiMethod": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": false
+    }
+  }
+}
